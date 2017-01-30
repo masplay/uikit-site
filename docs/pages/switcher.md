@@ -12,7 +12,7 @@ Typically, the switcher toggles are styled through other components, some of whi
 
 ```html
 <!-- This is the nav containing the toggling elements -->
-<ul uk-switcher>
+<ul>
     <li><a href=""></a></li>
 </ul>
 
